@@ -1,0 +1,11 @@
+D:\visual\sositetvari\sositetvari\bin\Debug\sositetvari.exe.config
+D:\visual\sositetvari\sositetvari\bin\Debug\sositetvari.exe
+D:\visual\sositetvari\sositetvari\bin\Debug\sositetvari.pdb
+D:\visual\sositetvari\sositetvari\obj\Debug\sositetvari.csprojAssemblyReference.cache
+D:\visual\sositetvari\sositetvari\obj\Debug\sositetvari.Form1.resources
+D:\visual\sositetvari\sositetvari\obj\Debug\sositetvari.Properties.Resources.resources
+D:\visual\sositetvari\sositetvari\obj\Debug\sositetvari.csproj.GenerateResource.cache
+D:\visual\sositetvari\sositetvari\obj\Debug\sositetvari.csproj.CoreCompileInputs.cache
+D:\visual\sositetvari\sositetvari\obj\Debug\sositetvari.exe
+D:\visual\sositetvari\sositetvari\obj\Debug\sositetvari.pdb
+D:\visual\sositetvari\sositetvari\obj\Debug\sositetvari.Form2.resources
